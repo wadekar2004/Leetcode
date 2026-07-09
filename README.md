@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/wadekar2004/Leetcode/tree/master/0268-missing-number) |
+| [1071-greatest-common-divisor-of-strings](https://github.com/wadekar2004/Leetcode/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1266-minimum-time-visiting-all-points](https://github.com/wadekar2004/Leetcode/tree/master/1266-minimum-time-visiting-all-points) |
 ## Binary Search
 |  |
@@ -63,5 +64,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [1071-greatest-common-divisor-of-strings](https://github.com/wadekar2004/Leetcode/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1768-merge-strings-alternately](https://github.com/wadekar2004/Leetcode/tree/master/1768-merge-strings-alternately) |
 <!---LeetCode Topics End-->
