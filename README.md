@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/wadekar2004/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/wadekar2004/Leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/wadekar2004/Leetcode/tree/master/0283-move-zeroes) |
+| [0334-increasing-triplet-subsequence](https://github.com/wadekar2004/Leetcode/tree/master/0334-increasing-triplet-subsequence) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/wadekar2004/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0605-can-place-flowers](https://github.com/wadekar2004/Leetcode/tree/master/0605-can-place-flowers) |
 | [1266-minimum-time-visiting-all-points](https://github.com/wadekar2004/Leetcode/tree/master/1266-minimum-time-visiting-all-points) |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0334-increasing-triplet-subsequence](https://github.com/wadekar2004/Leetcode/tree/master/0334-increasing-triplet-subsequence) |
 | [0605-can-place-flowers](https://github.com/wadekar2004/Leetcode/tree/master/0605-can-place-flowers) |
 ## Prefix Sum
 |  |
