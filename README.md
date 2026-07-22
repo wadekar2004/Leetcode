@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/wadekar2004/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [1207-unique-number-of-occurrences](https://github.com/wadekar2004/Leetcode/tree/master/1207-unique-number-of-occurrences) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/wadekar2004/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1657-determine-if-two-strings-are-close](https://github.com/wadekar2004/Leetcode/tree/master/1657-determine-if-two-strings-are-close) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/wadekar2004/Leetcode/tree/master/1679-max-number-of-k-sum-pairs) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/wadekar2004/Leetcode/tree/master/2215-find-the-difference-of-two-arrays) |
 ## Sorting
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/wadekar2004/Leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/wadekar2004/Leetcode/tree/master/0268-missing-number) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/wadekar2004/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1657-determine-if-two-strings-are-close](https://github.com/wadekar2004/Leetcode/tree/master/1657-determine-if-two-strings-are-close) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/wadekar2004/Leetcode/tree/master/1679-max-number-of-k-sum-pairs) |
 ## Math
 |  |
@@ -64,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/wadekar2004/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1657-determine-if-two-strings-are-close](https://github.com/wadekar2004/Leetcode/tree/master/1657-determine-if-two-strings-are-close) |
 ## Geometry
 |  |
 | ------- |
@@ -96,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0443-string-compression](https://github.com/wadekar2004/Leetcode/tree/master/0443-string-compression) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/wadekar2004/Leetcode/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/wadekar2004/Leetcode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [1657-determine-if-two-strings-are-close](https://github.com/wadekar2004/Leetcode/tree/master/1657-determine-if-two-strings-are-close) |
 | [1768-merge-strings-alternately](https://github.com/wadekar2004/Leetcode/tree/master/1768-merge-strings-alternately) |
 ## Greedy
 |  |
