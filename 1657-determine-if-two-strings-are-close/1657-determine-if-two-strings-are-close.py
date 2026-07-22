@@ -1,3 +1,12 @@
+# 1. Length same?
+#         ↓
+# 2. Count frequency (Hash Map)
+#         ↓
+# 3. Same unique characters? (Hash Set)
+#         ↓
+# 4. Same frequency counts? (Sort values)
+#         ↓
+# 5. Return True
 class Solution:
     def closeStrings(self, word1: str, word2: str) -> bool:
 
@@ -22,5 +31,6 @@ class Solution:
         if sorted(count1.values()) !=sorted(count2.values()):
             return False
         return True
+    
         
         
