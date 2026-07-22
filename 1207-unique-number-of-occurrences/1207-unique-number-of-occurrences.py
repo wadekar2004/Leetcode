@@ -8,6 +8,7 @@ class Solution:
             else:
                 count[num]=1
         freq=set()
+        # freq = set(count)it gives nums not values hash map  stores in way like key value pair we want value
 
         for value in count.values():
             freq.add(value)
